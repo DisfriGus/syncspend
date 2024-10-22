@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import { Metadata } from "next";
 import LoginTemplate from "@/components/templates/auth/Login";
 
